@@ -1,0 +1,36 @@
+body {
+    background-color: #E5DDC5;
+}
+
+.materialboxed {
+    text-align: center;
+    width: 200px;
+    height: auto;
+    margin: 0 auto; 
+}
+
+h1{
+    text-align: center;
+    color: #637A9F;
+    margin-top: 3rem; 
+}
+
+#btn{
+    margin-bottom: 3rem;
+}
+
+.navbar-color{
+    background-color: #F1EEDC;
+}
+
+#spc{
+    margin-top: 3rem; 
+}
+
+.nav-link {
+    color: #637A9F;
+}
+
+.img2{
+    height: 350px;
+}
